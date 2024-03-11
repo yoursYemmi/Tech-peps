@@ -5,5 +5,6 @@ Team Members name:
   2. Akash Kumar Gaud
   3. Vishal kumar Gaud
   4. Bishal Halder
+     
 Tech Stack: We will be adding features like viewing how many users are online, search bar for different events, ai based suggestions based on previous participation, showing events in which someone has participated and also showing them their scheduled and giving prompt notification for the same.
      
